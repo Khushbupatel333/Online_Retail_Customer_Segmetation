@@ -48,7 +48,7 @@ In this project ,your task is to identify major customers  segmentation on a tra
  
   - By applying diffrent clusters algorithms I get optimal number fro cluster 2.
  
-  - Using the Recency,Frequency and Monetary analysis the customer are segmented into various clusters and I got silhouette score 0.55 for two clusters.
+  - Using the Recency,Frequency and Monetary analysis the customer are segmented into various clusters and I got silhouette score 0.49 for two clusters.
 
 
 
