@@ -46,7 +46,7 @@ In this project ,your task is to identify major customers  segmentation on a tra
   # Conclusion:-
   - The main objective of the project is to devlope customer segments for the online store.
  
-  - By applying diffrent clusters algorithms I get optimal number fro cluster 2.
+  - By applying different clusters algorithms I get optimal number for cluster 2.
  
   - Using the Recency,Frequency and Monetary analysis the customer are segmented into various clusters and I got silhouette score 0.49 for two clusters.
 
