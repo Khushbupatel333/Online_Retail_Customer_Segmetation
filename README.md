@@ -1,4 +1,6 @@
-# Online_Retail_Customer_Segmetation
+#  Customer Segmetation Analysis : Machine Learning 
+![Cust](https://github.com/user-attachments/assets/a0efb521-0904-410f-a73c-174913d3c4c3)
+
 # Probelm Statement:-
 In this project ,your task is to identify major customers  segmentation on a transitional dataset.The compony mainly sells unique all occasions gifts.Many customers of compony are wholesaler
 # variables Discription:-
