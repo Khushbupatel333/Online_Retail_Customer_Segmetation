@@ -1,4 +1,4 @@
-#  Customer Segmetation Analysis : Machine Learning 
+#  Customer Segmentation Analysis : Machine Learning 
 ![Cust](https://github.com/user-attachments/assets/a0efb521-0904-410f-a73c-174913d3c4c3)
 
 # Problem Statement:-
