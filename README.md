@@ -1,36 +1,36 @@
 #  Customer Segmetation Analysis : Machine Learning 
 ![Cust](https://github.com/user-attachments/assets/a0efb521-0904-410f-a73c-174913d3c4c3)
 
-# Probelm Statement:-
-In this project ,your task is to identify major customers  segmentation on a transitional dataset.The compony mainly sells unique all occasions gifts.Many customers of compony are wholesaler
+# Problem Statement:-
+In this project, your task is to identify major customer segmentation on a transitional dataset. The company mainly sells unique occasions gifts. Many customers of the company are wholesalers
 # variables Discription:-
 - Invoice_no : Number of product(Nominal)
 
 - StockCode : Product code(item) (nominal)
 
-- Description : Product Name(Nominal)
+- Description: Product Name(Nominal)
 
-- Quantity : The quantity of each product(Numeric)
+- Quantity: The quantity of each product(Numeric)
 
-- InvoiceDate : Date of Invoice (Numeric)
+- InvoiceDate: Date of Invoice (Numeric)
 
-- UnitPrice : Unit Price (Numeric)
+- UnitPrice: Unit Price (Numeric)
 
-- CustomerID : Customer Number (Nominal)
+- CustomerID: Customer Number (Nominal)
 
-- Country : Country Name (Nominal)
-  # Approach :-
-  # Data prepration:-
-  - Checked for  null values using isnull() method and handled those values.
+- Country: Country Name (Nominal)
+  # Approach:-
+  # Data preparation:-
+  - Checked for null values using the isnull() method and handled those values.
  
-  - Checked the duplicate values from the dataset and remove them.
+  - Checked the duplicate values from the dataset and removed them.
  
-  - Checked out the shape of data ,columns in data ,unique values and basic information.
+  - Checked out the shape of data, columns in data, unique values, and basic information.
  
    # Feature Engineering:-
-  - Converted Invoive_no column in the string type and dropped all the Invoice_no starting with 'C'.
+  - Converted the Invoice_no column in the string type and dropped all the Invoice_no starting with 'C'.
  
-  - Created new features month and Day from InvoiveDate feature.
+  - Created new features month and Day from the InvoiceDate feature.
  
   - Created TotalAmount feature from features Quantity and UnitPrice.
  
@@ -46,12 +46,11 @@ In this project ,your task is to identify major customers  segmentation on a tra
   - Hierarchical Clustering
  
   # Conclusion:-
-  - The main objective of the project is to devlope customer segments for the online store.
+  - The main objective of the project is to develop customer segments for the online store.
  
-  - By applying different clusters algorithms I get optimal number for cluster 2.
+  - By applying different cluster algorithms I get the optimal number for cluster 2.
  
-  - Using the Recency,Frequency and Monetary analysis the customer are segmented into various clusters and I got silhouette score 0.49 for two clusters.
-
+  - Using the Recency, Frequency, and Monetary analysis the customers are segmented into various clusters and I got a silhouette score of 0.49 for two clusters.
 
 
 
